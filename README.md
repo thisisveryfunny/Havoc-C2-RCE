@@ -8,6 +8,8 @@ SSRF: This vulnerability is exploited by spoofing a demon agent registration and
 Chain: Abusing SSRF to deliver an authenticated command injection payload.
 
 # How to use
+![2025-01-19 20-01-34](https://github.com/user-attachments/assets/e57accee-6d1e-4633-aa32-a0ee07c42988)
+
 ```
 1. Modify the IP, USER and PASSWORD in the exploit.py file.
 2. Modify IP in payload.sh
