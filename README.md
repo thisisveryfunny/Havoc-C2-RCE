@@ -13,7 +13,6 @@ Chain: Abusing SSRF to deliver an authenticated command injection payload.
 ```
 1. Modify the IP, USER and PASSWORD in the exploit.py file.
 2. Modify IP in payload.sh
-3. 
 
 -> python3 -m venv myenv && source myenv/bin/activate
 -> pip3 install -r requirements.txt
